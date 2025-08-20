@@ -9,7 +9,7 @@ This document outlines the core gameplay systems, progression paths, rarities, a
 ### Story Mode
 
 * **10 Stages** per story chapter
-* **Same map** per stage for consistency and learning
+* **Same map** per stage for consistency
 
 ### Difficulties
 
