@@ -111,12 +111,11 @@ Units can obtain special traits that alter gameplay significantly. Traits are sp
   * Reduces enemy movement speed by 150%
   * Allies inside the field get cooldown reductions
 
-### Legendary Traits
-
+### Mystical Traits
 * **Gold:** +50% gold per wave
 * **Monopoly:** +100% gold per wave
-* **Monarch:** +100% Bonus Damage, +25% Range, -15% Atk CD (Placement limit: 1)
-* **The One:** +200% Bonus Damage, +35% Range, -35% Atk CD (Placement limit: 1)
+* **Monarch:** +200% Bonus Damage, +25% Range, -15% Atk CD (Placement limit: 1)
+* **The One:** +300% Bonus Damage, +35% Range, -35% Atk CD (Placement limit: 1)
 * **Prince:** +65% Bonus Damage, +15% Range, -15% Atk CD
 
 ---
