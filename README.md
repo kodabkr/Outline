@@ -106,7 +106,7 @@ Units can obtain special traits that alter gameplay significantly. Traits are sp
   * Dominate (Primary Ability): You can target another friendly unit to become a "Host." (Limited to your towers only) The Host unit  is immediately disabled and cannot attack or use abilities. The Parasitic Monarch gains 150% of the Host's total Damage and Range at the time of infection.
   * Hive Mind: The Monarch can have up to 3 Hosts at once, stacking all stats gained.  It will also inherit the attack types (e.g., Bleed, Cripple,  Burn) of all its Hosts simultaneously.
 * **Chronostasis**
-* 
+  
   * This unit emits a massive Time Dilation field. All enemies inside the field are afflicted with Stasis, reducing their movement speed by 150%. All friendly units inside the field are granted Haste, reducing their attack cooldowns by 50%.
   * Allies inside the field get cooldown reductions
 
